@@ -1,0 +1,14 @@
+body{
+    background: #f9e933;
+}
+header {
+    min-width: 855px;
+    background: white;
+}
+ main{
+    min-width: 855px;
+    background: white;
+ }
+footer{
+    min-width: 855px;
+}
